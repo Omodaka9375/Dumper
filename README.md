@@ -1,4 +1,4 @@
-# Dumper
+# Python ProcDumper
 Capture a Memory Dump of any Process via PID using ProcDump and PsUtil
 
 ## How it works
